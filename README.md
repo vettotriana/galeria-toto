@@ -1,25 +1,25 @@
-# GalerÌa Toto
+# Galer√≠a Toto
 
-GalerÌa Toto es una aplicaciÛn web que es galeria, utilizando React.js y Firebase v9 (BaaS). Permite a los usuarios compartir sus fotos, comentar y dar me gusta a las publicaciones de otros. TambiÈn pueden explorar y seguir los perfiles de otros usuarios.
+Galer√≠a Toto es una aplicaci√≥n web que es galeria, utilizando React.js y Firebase v9 (BaaS). Permite a los usuarios compartir sus fotos, comentar y dar me gusta a las publicaciones de otros. Tambi√©n pueden explorar y seguir los perfiles de otros usuarios.
 
 
-## CaracterÌsticas de este Clon
- - Registro e inicio de sesiÛn con autenticaciÛn por correo electrÛnico y contraseÒa.
- - Publicar una imagen con descripciÛn.
- - Dar me gusta/no me gusta, comentar y compartir cualquier publicaciÛn.
- - DiseÒo de m˙ltiples p·ginas (p·gina de inicio y de exploraciÛn).
- - Completamente adaptable a dispositivos mÛviles.
+## Caracter√≠sticas
+ - Registro e inicio de sesi√≥n con autenticaci√≥n por correo electr√≥nico y contrase√±a.
+ - Publicar una imagen con descripci√≥n.
+ - Dar me gusta/no me gusta, comentar y compartir cualquier publicaci√≥n.
+ - Dise√±o de m√∫ltiples p√°ginas (p√°gina de inicio y de exploraci√≥n).
+ - Completamente adaptable a dispositivos m√≥viles.
  - Seguir y dejar de seguir usuarios.
- - P·gina de perfil del usuario.
- - Inicio de sesiÛn con Facebook.
+ - P√°gina de perfil del usuario.
+ - Inicio de sesi√≥n con Facebook.
  - Buscar usuarios por nombre de usuario.
  - Hacer clic en el nombre de usuario para ver ese perfil.
- - VerificaciÛn de correo electrÛnico.
+ - Verificaci√≥n de correo electr√≥nico.
  - Mostrar usuarios aleatorios en la lista de sugerencias.
- - AÒadir desplazamiento infinito hasta cargar todas las publicaciones.
+ - A√±adir desplazamiento infinito hasta cargar todas las publicaciones.
 
 
-## TecnologÌa Utilizada
+## Tecnolog√≠a Utilizada
  - React.js
  - CSS3
  - Firebase v9
@@ -29,17 +29,17 @@ GalerÌa Toto es una aplicaciÛn web que es galeria, utilizando React.js y Firebas
 
 
 ## Empezando con Create React App
-Este proyecto se iniciÛ con [Create React App](https://github.com/facebook/create-react-app).
-Clona este repositorio. Necesitar·s `node.js` y `git` instalados globalmente en tu m·quina.
+Este proyecto se inici√≥ con [Create React App](https://github.com/facebook/create-react-app).
+Clona este repositorio. Necesitar√°s `node.js` y `git` instalados globalmente en tu m√°quina.
 
-## Instrucciones de instalaciÛn y configuraciÛn
-1. InstalaciÛn: `npm install`
+## Instrucciones de instalaci√≥n y configuraci√≥n
+1. Instalaci√≥n: `npm install`
 2. En el directorio del proyecto, puedes ejecutar: `npm start`
 
-Ejecuta la aplicaciÛn en modo de desarrollo.\
+Ejecuta la aplicaci√≥n en modo de desarrollo.\
 Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
-La p·gina se recargar· si haces cambios.\
-TambiÈn podr·s ver errores de lint en la consola.
+La p√°gina se recargar√° si haces cambios.\
+Tambi√©n podr√°s ver errores de lint en la consola.
 
 ## Opcionales
 1. el archivo FirebaseConfig.js en la carpeta config, estan los endpoints de firebase, no olvidar activar en firebase los servicios de firestore database, auhentication y storage
